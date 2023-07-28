@@ -4,7 +4,6 @@
     {
         public int OrderId { get; set; }
         public long NumberOfTickets { get; set; }
-        public DateTime OrderedAt { get; set; }
-        public long TotalPrice { get; set; }
+        public string Description { get; set; }
     }
 }

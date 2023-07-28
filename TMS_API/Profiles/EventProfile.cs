@@ -8,7 +8,6 @@ namespace TMS_API.Profiles
     {
         public EventProfile()
         {
-            //CreateMap<Event, EventDTO>().ReverseMap();
             CreateMap<Event, EventDTO>()
                 .ForMember(dest => dest.EventType, opt => opt.MapFrom(src => src.EventType.EventTypeName))
                 .ForMember(dest => dest.Venue, opt => opt.MapFrom(src => src.Venue.Location))

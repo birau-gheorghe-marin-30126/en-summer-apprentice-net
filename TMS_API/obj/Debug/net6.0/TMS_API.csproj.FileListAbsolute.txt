@@ -90,3 +90,4 @@ C:\ENDAVA\.NET\TMS_API\TMS_API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.
 C:\ENDAVA\.NET\TMS_API\TMS_API\bin\Debug\net6.0\NLog.dll
 C:\ENDAVA\.NET\TMS_API\TMS_API\bin\Debug\net6.0\NLog.Extensions.Logging.dll
 C:\ENDAVA\.NET\TMS_API\TMS_API\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\ENDAVA\.NET\TMS_API\TMS_API\bin\Debug\net6.0\nlog.config

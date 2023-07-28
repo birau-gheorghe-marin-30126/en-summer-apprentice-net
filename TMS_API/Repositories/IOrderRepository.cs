@@ -8,6 +8,6 @@ namespace TMS_API.Repositories
         Task <Order> GetById(int id);
         int Add(Order @order);
         void Update(Order @order);
-        void Delete(int id);
+        void Delete(Order @order);
     }
 }
